@@ -51,7 +51,7 @@ For **each paper**, your handwritten review should clearly address the following
    - How can this paper inspire a **Systems Integration research or capstone topic**?
    - What can be improved, extended, or integrated with other systems?
 
-Your responses should reflect **your own understanding and critical thinking**, not a summarized copied from the paper.
+Your responses should reflect **your own understanding and critical thinking**, not a summary copied from the paper.
 
 ---
 
